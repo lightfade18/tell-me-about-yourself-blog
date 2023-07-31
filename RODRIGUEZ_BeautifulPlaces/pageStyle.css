@@ -1,0 +1,207 @@
+.homenav img{
+	width:100px;
+	padding-top:30px;
+	border-radius:30px;
+}
+body{
+	background-color:#FEFEFE;
+}
+.phead{
+	background-color:#0F0C08;
+	font-family:monoton, cursive;
+	margin:auto;
+}
+.phead a{
+	text-decoration:none;
+}
+.phead h1{
+	color:#FEFEFE;
+	font-size:3em;
+}
+.phead li{
+	display: inline-block;
+}
+.homenav{
+	padding:0px;
+}
+.subnav{
+	text-align:right;
+	padding:0px;
+}
+.subnav li{
+	padding-right:20px;
+	padding-top:0px;
+	font-size:1.5em;
+	padding-bottom:10px;
+}
+a:link{
+	color:#FEFEFE;
+}
+a:visited{
+	color:#FEFEFE;
+}
+a:hover{
+	background-color:#FEFEFE;
+	color:#0F0C08;
+	padding:4px;
+	border-radius:5px;
+}
+a:focus{
+	background-color:#FEFEFE;
+	color:#0F0C08;
+	padding:4px;
+	border-radius:5px;
+}
+footer{
+	background-color:#1D1703;
+	text-align:center;
+	color:#FEFEFE;
+	padding:20px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	font-size:1.125em;
+	margin:auto;
+	line-height:1.80em;
+}
+.beautiP .parabeau img{
+	width:900px;
+	height:750px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+.layout .par .blo1 .parabeau img{
+	width:900px;
+	height:750px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+.beautiP{
+	background-color:#0F0C08;
+	border-radius:50px;
+	border:1px solid;
+}
+.blo1{
+	background-color:#0F0C08;
+	border-radius:50px;
+	border:1px solid;
+}
+.parabeau{
+	background-image:url("../RODRIGUEZ_BeautifulPlaces/travelbg.png");
+	background-color:#cccccc;
+}
+.beautiP img:hover{
+	opacity:1;
+}
+.imahe img:hover{
+	opacity:1;
+}
+.beautiP p{
+	color:#FEFEFE;
+	font-size:1.5em;
+	font-family:Montserrat, sans-serif;
+	text-align:center;
+}
+.layout img:hover{
+	opacity:1;
+}
+.blo1 p{
+	color:#FEFEFE;
+	font-size:1.25em;
+	font-family:Montserrat, sans-serif;
+	text-align:center;
+	line-height:2em;
+}
+.beautiP .headbeau h2{
+	color:#FEFEFE;
+	font-size:2.5em;
+	font-family:monoton, sans-serif;
+	text-align:center;
+	word-spacing:20px;
+}
+.blo1 h2{
+	color:#FEFEFE;
+	font-size:2.5em;
+	font-family:monoton, sans-serif;
+	text-align:center;
+	word-spacing:20px;
+}
+.blo1 h3{
+	color:#FEFEFE;
+	font-size:1em;
+	font-family:monoton, sans-serif;
+	text-align:center;
+	word-spacing:20px;
+}
+.blo2 h3{
+	color:#0F0C08;
+	font-size:1em;
+	font-family:Montserrat, sans-serif;
+	text-align:left;
+}
+.blo2 ul{
+	text-align:left;
+	line-height:1.75em;
+}
+.blo2 li{
+	
+}
+.layout .par{
+	display:flex;
+	text-align:justify;
+}
+.layout .blo1{
+	text-align:center;
+	margin: 5px;
+	display: inline-block;
+	width:80%;
+	border-radius:30px;
+	border:1px solid;
+}
+.layout .blo2{
+	text-align:center;
+	margin: 5px;
+	display: inline-block;
+	width:20%;
+}
+.imahe{
+	text-align:center;
+}
+.otherp img{
+	width:200px;
+	height:140px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.otherp{
+	font-size:0.80em;
+	padding:5px;
+}
+.otherp h3{
+	color:#0F0C08;
+}
+figure{
+	float:left;
+	margin-left:0px;
+}
+figcaption{
+	display:block;
+	font-weight:bold;
+	font-size:0.80em;
+	padding-top:0.25em;
+}
+.imahe img{
+	width:1200px;
+	height:1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.imahe{
+	font-family:monoton, sans-serif;
+	text-align:center;
+	font-size:2em;
+}
+.blo1 p {
+	
+}

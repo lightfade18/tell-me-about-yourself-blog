@@ -1,0 +1,286 @@
+.res{
+	zoom:90%;
+}
+#head1{
+	text-transform:uppercase;
+	font:1.125em  'Monoton', cursive;
+	text-align:right;
+	color:#D2691E;
+	width:50%;
+	margin:auto;
+}
+#head2{
+	font-family: 'Monoton', cursive;
+	text-align:left;
+	color:#D2691E;
+	width:50%;
+	margin:auto;
+}
+*{
+	letter-spacing:1px;
+	word-spacing: 4px;
+	line-height:40px;
+}
+.p1, .p2, .p3, .p4, .p5, .p6{
+	font-family: 'Montserrat', sans-serif;
+}
+ul.contact{
+	font-size:1.5em;
+	text-align:center;
+	border-top:2px solid #00CED1;
+	border-bottom:2px solid #00CED1;
+	text-transform:uppercase;
+	padding:10px;
+}
+ul.contact li{
+	color:#00CED1;
+	border-right:2px solid #00CED1;
+	list-style-type:none;
+	display:inline;
+	border-spacing:10px;
+	padding-left:40px;
+	padding-right:40px;
+}
+ul.contact li:first-child{
+	border-right:2px solid #00CED1;
+}
+ul.contact li:last-child{	
+	border-right:2px none #00CED1;
+}
+.p1{
+	text-align:center;
+	width: 50%;
+	margin:auto;
+	padding:30px;
+}
+.p1 h3{
+	font-family: 'Monoton', cursive;
+	color:#D2691E;
+}
+.p1 p{
+	text-align:center;
+}
+.p2{
+	text-align:center;
+	margin:auto;
+	padding:30px;
+}
+.p2 h3{
+	font-family: 'Monoton', cursive;
+	color:#D2691E;
+}
+.t{
+	text-align:justify;
+	margin: auto;
+	width: 30%;
+}
+ul.tskills{
+	list-style-position:inside;
+}
+.p3{
+	text-align:center;
+	padding:30px;
+}
+.p3 h3{
+	font-family: 'Monoton', cursive;
+	color:#D2691E;
+}
+.p3 dt,dd{
+	display:inline;
+}
+.p3 dl{
+	padding:20px;
+	margin:20px;
+}
+.p3 dt{
+	position:relative;
+	padding:20px;
+	margin:20px;
+}
+.p3 dd{
+	position:relative;
+	padding:20px;
+	margin:20px;
+}
+.p4{
+	text-align:center;
+	padding:30px;
+}
+.p4 h3{
+	font-family: 'Monoton', cursive;
+	color:#D2691E;
+}
+.p4 .parent{
+	display:flex;
+	text-align:justify;
+}
+.p4 .block{
+	text-align:center;
+	margin: 0px;
+	display: inline-block;
+	width: 33%;
+	padding:30px;
+}
+.p4 .block .year{
+	padding:5px;
+}
+.p4 .block .school{
+	padding:5px;
+}
+.p5{
+	text-align:center;
+	padding:30px;
+}
+.p5 h3{
+	font-family: 'Monoton', cursive;
+	color:#D2691E;
+}
+.p5 .parent{
+	display:flex;
+	text-align:justify;
+}
+.p5 .block{
+	text-align:center;
+	margin: 0px;
+	display: inline-block;
+	width: 33%;
+	padding:30px;
+}
+.p5 .skill{
+	margin:auto;
+	width:90%;
+	text-align:right;
+}
+.p5 .train{
+	margin:auto;
+	width:80%;
+	text-align:center;
+}
+.dot{
+	height: 12px;
+	width: 12px;
+	background-color: #00CED1;
+	border-radius: 40%;
+	display: inline-block;
+}
+.ndot{
+	height: 12px;
+	width: 12px;
+	background-color: #BBB;
+	border-radius: 40%;
+	display: inline-block;
+}
+.p5 dt,dd{
+	display:inline;
+	text-align:justify;
+}
+.p6{
+	text-align:center;
+	padding:30px;
+}
+.p6 h3{
+	font-family: 'Monoton', cursive;
+	color:#D2691E;
+}
+.p6 .hobby{
+	list-style-position:inside;
+	list-style-type:none;
+}
+.homenav img{
+	width:100px;
+	padding-top:30px;
+	border-radius:30px;
+}
+body{
+	background-color:#FEFEFE;
+}
+.phead{
+	background-color:#0F0C08;
+	font-family:monoton, cursive;
+	margin:auto;
+}
+.phead a{
+	text-decoration:none;
+}
+.phead h1{
+	color:#FEFEFE;
+	font-size:3em;
+}
+.phead li{
+	display: inline-block;
+}
+.homenav{
+	padding:0px;
+}
+.subnav{
+	text-align:right;
+	padding:0px;
+	margin-top:-20px;
+}
+.subnav li{
+	padding-right:20px;
+	padding-top:0px;
+	font-size:1.5em;
+}
+a:link{
+	color:#FEFEFE;
+}
+a:visited{
+	color:#FEFEFE;
+}
+a:hover{
+	background-color:#FEFEFE;
+	color:#0F0C08;
+	padding:4px;
+	border-radius:5px;
+}
+a:focus{
+	background-color:#FEFEFE;
+	color:#0F0C08;
+	padding:4px;
+	border-radius:5px;
+}
+.resume{
+	margin:auto;
+	border:1.2px solid;
+	border-radius:30px;
+	padding:20px;
+}
+.resume img{
+	width:140px;
+	margin-left:150px;
+	margin-top:0px;
+	border-radius:10px;
+}
+.left{
+	float:left;
+}
+.contact a{
+	color:#00CED1;
+	text-decoration:none;
+}
+.contact a:hover{
+	background-color:#0F0C08;
+	color:#FEFEFE;
+}
+img:hover{
+	opacity:0.40;
+}
+footer{
+	background-color:#1D1703;
+	text-align:center;
+	color:#FEFEFE;
+	padding:20px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	font-size:1.125em;
+	margin:auto;
+	margin-top:30px;
+}
+#foot{
+	line-height:10px;
+	background-color:#00CED1;
+	color:#FFFFFF;
+	text-align:center;
+	font:bold 12px Georgia, sans-serif;
+}
